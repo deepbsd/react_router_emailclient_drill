@@ -6,6 +6,8 @@ import {Provider} from 'react-redux';
 import Email from './components/email';
 import './index.css';
 
+
+
 const initialState = {
     inbox: {
         id: 'inbox',
